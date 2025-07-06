@@ -54,34 +54,35 @@ Antrean panjang di lampu lalu lintas menyebabkan stres, frustrasi, dan penurunan
 - **Kualitas Hidup yang Lebih Baik**: Dengan meminimalkan stres pengemudi, TrafficSync meningkatkan kesejahteraan mental, produktivitas, dan kualitas hidup secara keseluruhan. 
 
 ## Affordable and Clean Energy
-
+![sdg7](https://github.com/TrafficSync/TrafficSync/blob/7312b2282a26cc9b87eba20d17c23a982252d189/pict/sdg%207%20fix%20upload%20.png)
 - **Tekan Emisi, Selamatkan Bumi**: Laporan International Energy Agency (IEA) menyebutkan sektor transportasi menyumbang 24% emisi CO2 global, dengan waktu idle di lampu lalu lintas menyebabkan 10-15% konsumsi bahan bakar di perkotaan. TrafficSync mengurangi waktu idle dengan menyesuaikan lampu lalu lintas secara real-time berdasarkan kepadatan lalu lintas, menekan emisi CO2 hingga 15%.
 - **Hemat Energi, Wujudkan Efisiensi**: Menggunakan sensor dan AI, TrafficSync memprediksi arus kendaraan untuk meminimalkan kemacetan dan transisi lampu yang tidak efisien. Ini mengurangi pemborosan bahan bakar akibat pengereman dan akselerasi berulang, mendukung penggunaan energi yang lebih hemat dan berkelanjutan.
 - **Kota Hijau, Masa Depan Cerah**: Terinspirasi oleh sistem di kota seperti Singapura dan Stockholm, TrafficSync menciptakan lingkungan perkotaan yang lebih hijau dengan meminimalkan jejak karbon. Solusi ini dapat diskalakan untuk mendukung infrastruktur transportasi ramah lingkungan di berbagai kota.
 
 ## Industry, Innovation, and Infrastructure
-
+![sdg9](https://github.com/TrafficSync/TrafficSync/blob/7312b2282a26cc9b87eba20d17c23a982252d189/pict/SDG%209%20FIX%20UPLOAD.png)
 - **Tingkatkan Efisiensi, Wujudkan Mobilitas**: Menurut laporan McKinsey, sistem transportasi cerdas (ITS) seperti lampu lalu lintas adaptif dapat meningkatkan efisiensi lalu lintas hingga 15-20% di kota-kota besar. TrafficSync menggunakan AI dan sensor untuk menyesuaikan lampu lalu lintas secara real-time, mengurangi kemacetan dan waktu tempuh.
 - **Inovasi untuk Infrastruktur Modern**: TrafficSync mengintegrasikan teknologi mutakhir seperti prediksi arus kendaraan dan analitik real-time untuk menciptakan sistem lalu lintas yang responsif. Ini mendukung pembangunan infrastruktur perkotaan yang tangguh dan inovatif.
 - **Kota Cerdas, Masa Depan Berkelanjutan**: Terinspirasi oleh solusi ITS di kota-kota global, TrafficSync memungkinkan skalabilitas untuk mendukung pertumbuhan kota yang berkelanjutan. Dengan mengurangi waktu tunggu dan kemacetan, TrafficSync mendorong produktivitas dan konektivitas perkotaan.
 
 ## Sustainable Cities and Communities
-
+![sdg11](https://github.com/TrafficSync/TrafficSync/blob/7312b2282a26cc9b87eba20d17c23a982252d189/pict/SDG%2011%20FIX%20UPLOAD.png)
 - **Kurangi Kemacetan, Hidupkan Kota**: Pengemudi menghabiskan rata-rata 22% waktu perjalanan terjebak di kemacetan, sebagian besar di persimpangan. TrafficSync menggunakan AI dan sensor untuk menyesuaikan lampu lalu lintas secara real-time, mengurangi waktu tunggu dan kemacetan, sehingga meningkatkan kelancaran mobilitas perkotaan.
 - **Persimpangan Cerdas, Kota Hijau**: Terinspirasi oleh solusi transportasi cerdas global, TrafficSync memungkinkan kota untuk berkembang secara berkelanjutan dengan mengurangi kemacetan dan mendukung infrastruktur yang ramah lingkungan. Solusi ini dapat diskalakan untuk menciptakan kota yang lebih terhubung dan layak huni.
 
 ## Climate Action
-
+![sdg13](https://github.com/TrafficSync/TrafficSync/blob/7312b2282a26cc9b87eba20d17c23a982252d189/pict/SDG%2013%20FIX%20UPLOAD.png)
 - **Kurangi Karbon, Selamatkan Bumi**: Menurut IPCC, sektor transportasi darat menyumbang 12% emisi gas rumah kaca global. TrafficSync mengurangi emisi CO2 dengan mengoptimalkan lampu lalu lintas secara real-time, mengurangi waktu kendaraan menganggur. Sistem serupa di Los Angeles telah mengurangi 1 juta ton CO2 per tahun, dan TrafficSync siap mencapai dampak serupa.
 - **Kota Hijau, Masa Depan Lestari**: Terinspirasi oleh keberhasilan kota-kota seperti Los Angeles, TrafficSync menawarkan solusi skalabel untuk mengurangi jejak karbon transportasi. Dengan mengintegrasikan teknologi cerdas, TrafficSync membantu membangun kota yang mendukung keberlanjutan iklim.
 
 ## Life on Land
-
+![sdg17](https://github.com/TrafficSync/TrafficSync/blob/7312b2282a26cc9b87eba20d17c23a982252d189/pict/SDG%2015%20FIX%20UPLOAD.png)
 - **Kurangi Polusi, Selamatkan Vegetasi**: Penelitian menunjukkan bahwa polusi udara dari kendaraan dapat mengurangi pertumbuhan vegetasi hingga 20% di area perkotaan dekat jalan raya. TrafficSync mengurangi emisi polutan seperti PM 2.5 dan NOx dengan mengoptimalkan lampu lalu lintas secara real-time, membantu melindungi pohon dan tanaman di lingkungan kota.
 - **Alur Lalu Lintas Cerdas, Ekosistem Terjaga**: Dengan teknologi AI dan sensor, TrafficSync meminimalkan kemacetan dan waktu kendaraan menganggur, mengurangi polusi udara yang merusak ekosistem darat. Ini mendukung keanekaragaman hayati dan kesehatan vegetasi di perkotaan.
 - **Persimpangan Cerdas, Bumi Asri**: TrafficSync mendukung pembangunan kota berkelanjutan dengan mengurangi dampak negatif transportasi pada ekosistem darat. Solusi ini dapat diskalakan untuk menciptakan lingkungan perkotaan yang lebih hijau dan ramah bagi flora dan fauna.
 
 ## Partnership for the Goals
+![sdg17](https://github.com/TrafficSync/TrafficSync/blob/7312b2282a26cc9b87eba20d17c23a982252d189/pict/SDG%2017%20FIX%20UPLOAD.png)
 - **Kolaborasi Ada, Solusi Nyata**: SDG 17 menekankan pentingnya kemitraan lintas sektor. TrafficSync menggabungkan keahlian pemerintah, inovasi perusahaan teknologi, dan penelitian akademis untuk menciptakan sistem lalu lintas adaptif yang mengurangi kemacetan dan meningkatkan efisiensi mobilitas perkotaan.
 - **Teknologi Bersatu, Masa Depan Terhubung**: Dengan mengintegrasikan AI, sensor, dan data real-time, TrafficSync adalah hasil kolaborasi yang menghubungkan teknologi dengan kebutuhan masyarakat. Ini memungkinkan pengelolaan lalu lintas yang lebih cerdas, mendukung kota yang lebih terhubung dan produktif.
 - **Kemitraan untuk Keberlanjutan**: TrafficSync mendorong kemitraan global untuk mengembangkan solusi skalabel yang mendukung kota berkelanjutan. Dengan memanfaatkan keahlian lintas sektor, TrafficSync membantu mencapai tujuan bersama untuk lingkungan perkotaan yang lebih hijau dan efisien.
