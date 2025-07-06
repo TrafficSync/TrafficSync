@@ -25,6 +25,7 @@
 ## UN Sustainable Development Goals 
 
 ## Good Health and Well-Being
+![sdg3](https://github.com/TrafficSync/TrafficSync/blob/ca1f28d0b7cfbc6457d5774b48930fc5838d5b45/Pict/sdg%203%20fix%20upload%20.png)
 1. Target 3.4: Mengurangi Kematian Dini akibat Penyakit Tidak Menular 
 
 Menurut WHO, polusi udara dari kendaraan, yang diperparah oleh kemacetan akibat lampu lalu lintas konvensional, menyumbang sekitar 4,2 juta kematian dini global setiap tahun akibat penyakit pernapasan (seperti asma) dan kardiovaskular (seperti serangan jantung) yang dipicu oleh emisi PM 2.5 dan NOx. TrafficSync mendukung penuh Target 3.4 dengan cara :
